@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4f943f397e2522409f8f3d3dfd08499, type: 3}
+  m_Name: FOSHA the foxblade assas_GR
+  m_EditorClassIdentifier: 
+  cardID: FWA01
+  cardName: FOSHA, the foxblade assassin
+  cardSprite: {fileID: 21300000, guid: 0137c2f749bcfe84c906d0132214860f, type: 3}
+  fakeCardSprites:
+  - {fileID: 21300000, guid: e3907ea861be8974f9163e288d1db28b, type: 3}
+  - {fileID: 21300000, guid: 0a17a99590e622e458ae4af48e923042, type: 3}
+  - {fileID: 21300000, guid: 8f9534087e12a844c99d9d117f725f2f, type: 3}
+  - {fileID: 21300000, guid: 2bae0e0afa336804792460660bddead0, type: 3}
+  cardCost: 2
+  cardAtk: 2000
+  cardDef: 1500
+  cardType: 
+  cardClass: 2
+  cardDescription: "Deploy effect: Decrease one enemy unit\u2019s ATK by 1500."
+  cardRarity: 1
+  cardPrice: 0

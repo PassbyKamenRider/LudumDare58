@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4f943f397e2522409f8f3d3dfd08499, type: 3}
+  m_Name: MICHEOW the darkmew_GR
+  m_EditorClassIdentifier: 
+  cardID: CM01
+  cardName: MICHEOW, the darkmew
+  cardSprite: {fileID: 21300000, guid: bfa71deefaa361d4d9bba3b7403e3453, type: 3}
+  fakeCardSprites:
+  - {fileID: 21300000, guid: 42c82702bfb72f142847695737ecb825, type: 3}
+  - {fileID: 21300000, guid: a090de6efe47a674f93e82a4735eedf3, type: 3}
+  - {fileID: 21300000, guid: ee64498a71f8e1943b3f5d00e8875a81, type: 3}
+  - {fileID: 21300000, guid: 822fcf6b0276cfb4cb00eff0c2c57c33, type: 3}
+  cardCost: 3
+  cardAtk: 2700
+  cardDef: 2700
+  cardType: 
+  cardClass: 1
+  cardDescription: 'Departure effect: Decrease ATK of all enemy units by 300'
+  cardRarity: 1
+  cardPrice: 0

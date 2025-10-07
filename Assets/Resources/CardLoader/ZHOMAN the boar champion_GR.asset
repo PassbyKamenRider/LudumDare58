@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4f943f397e2522409f8f3d3dfd08499, type: 3}
+  m_Name: ZHOMAN the boar champion_GR
+  m_EditorClassIdentifier: 
+  cardID: PW01
+  cardName: ZHOMAN, the boar champion
+  cardSprite: {fileID: 21300000, guid: 5c6b48c46999c184fa552f39f036e34a, type: 3}
+  fakeCardSprites:
+  - {fileID: 21300000, guid: 16d6f46912c3d26438c41ec7739728e6, type: 3}
+  - {fileID: 21300000, guid: 5c4618e4ec03c5449bb4206dca4b16fd, type: 3}
+  - {fileID: 21300000, guid: fa5f9345def424840af3c1be0deda6b6, type: 3}
+  - {fileID: 21300000, guid: 5e76b64f3147ea54faad00008afadd14, type: 3}
+  cardCost: 2
+  cardAtk: 3000
+  cardDef: 1000
+  cardType: 
+  cardClass: 0
+  cardDescription: "After each attack, this unit\u2019s ATK is decreased by 300."
+  cardRarity: 1
+  cardPrice: 0

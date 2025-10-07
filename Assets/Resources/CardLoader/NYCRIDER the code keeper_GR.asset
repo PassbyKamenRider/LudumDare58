@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4f943f397e2522409f8f3d3dfd08499, type: 3}
+  m_Name: NYCRIDER the code keeper_GR
+  m_EditorClassIdentifier: 
+  cardID: BB01
+  cardName: NYCRIDER, the code keeper
+  cardSprite: {fileID: 21300000, guid: e4e2e9715afa7b342874bf7ccd1e3705, type: 3}
+  fakeCardSprites:
+  - {fileID: 21300000, guid: ffb68c3e02c62864386a92de128512f2, type: 3}
+  - {fileID: 21300000, guid: 5b8cc5f672c5d3d40bfb3b95cc0682c4, type: 3}
+  - {fileID: 21300000, guid: 482d756425956f2499f1673a91d9d833, type: 3}
+  - {fileID: 21300000, guid: 6ca21721d2450d54f9f2774bce347d1f, type: 3}
+  cardCost: 5
+  cardAtk: 4000
+  cardDef: 3000
+  cardType: 
+  cardClass: 4
+  cardDescription: 'Deploy effect: Copy the last unit used this match and add it
+    to your hand.'
+  cardRarity: 1
+  cardPrice: 0
